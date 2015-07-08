@@ -1,3 +1,3 @@
 author: Sredna Kunowski 7/3/2015
 # library
-library model
+library model, written in javascript and uses nodejs
