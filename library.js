@@ -1,8 +1,5 @@
 //Author: Sredna Kunowski 7/3/2015
 
-//The Library class stores shelves. It can add/removes shelves. And tell you what shelf your book is on.
-//Must be executed through node
-
 //node's file system method is included to support file imports
 var fs = require('fs');
 
