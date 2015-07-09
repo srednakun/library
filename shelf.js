@@ -1,7 +1,5 @@
 //Author: Sredna Kunowski 7/3/2015
 
-//The Shelf class stores books. It can add, remove, and search for a book.
-
 //node's file system method is included to support file imports
 var fss = require('fs');
 
